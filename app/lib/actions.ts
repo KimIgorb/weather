@@ -8,7 +8,9 @@ export async function getWeather(city: string) {
 
   const data = await response.json();
 
-  if (data.length === 0 || !data[0].local_names || !data[0].local_names.ru) {
+  console.log("Ответ API геокодинга:", JSON.stringify(data));
+  console.log("API_KEY:", process.env.API_KEY);
+  if (data.length === 0 || !data[0]?.local_names || !data[0]?.local_names?.ru) {
     throw new Error("Некорректное название города");
   }
 
