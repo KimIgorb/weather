@@ -1,0 +1,21 @@
+<svg width="19.000000" height="19.000000" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_124">
+			<rect width="19.000000" height="19.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_2_125_0" x1="3.908057" y1="16.382957" x2="15.072887" y2="5.222177" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#34CDFA"/>
+			<stop offset="1.000000" stop-color="#E8D9F1"/>
+		</linearGradient>
+	</defs>
+	<rect width="19.000000" height="19.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_124)">
+		<path d="M10.1346 0.281296C9.8173 -0.0359497 9.3414 -0.115295 8.9448 0.201996C8.9448 0.201996 8.86549 0.201996 8.86549 0.281296C8.23095 1.07446 2.36151 8.21295 2.36151 11.8615C2.36151 15.8273 5.53416 19 9.50001 19C13.4659 19 16.6385 15.8273 16.6385 11.8615C16.6385 8.21295 10.7691 1.07446 10.1346 0.281296Z" fill="url(#paint_linear_2_125_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path d="M12.4723 9.21693L7.70512 13.9841L6.58344 12.8624L11.3506 8.09526L12.4723 9.21693Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path d="M7.91364 9.48199C7.91364 9.92004 7.55853 10.2751 7.12048 10.2751C6.68244 10.2751 6.32733 9.92004 6.32733 9.48199C6.32733 9.04395 6.68244 8.68884 7.12048 8.68884C7.55853 8.68884 7.91364 9.04395 7.91364 9.48199Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path d="M12.6726 12.6547C12.6726 13.0927 12.3175 13.4478 11.8795 13.4478C11.4414 13.4478 11.0863 13.0927 11.0863 12.6547C11.0863 12.2166 11.4414 11.8615 11.8795 11.8615C12.3175 11.8615 12.6726 12.2166 12.6726 12.6547Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
